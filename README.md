@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **Nehal-Naeem/Nehal-Naeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I am currently a third year student at UBC, pursuing a combined major in Business and Computer Science.
+📫 How to reach me: nehal.naeem2@gmail.com | https://www.linkedin.com/in/nehal-naeem/
