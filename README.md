@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I am currently a third year student at UBC, pursuing a combined major in Business and Computer Science.
+🏫 I am currently a third year student at UBC, pursuing a combined major in Business and Computer Science.
 
 📫 How to reach me: nehal.naeem2@gmail.com | https://www.linkedin.com/in/nehal-naeem/
