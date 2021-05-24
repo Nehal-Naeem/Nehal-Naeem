@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏫 Currently a rising senior @ Unoversity of British Columbia, Vancouver
+🏫 Currently a rising senior @ Unoversity of British Columbia, Vancouver.
 
 👨‍💻 Pursuing a combined major in Business Technology Management and Computer Science.
 
-📫 How to reach me: nehal.naeem2@gmail.com | https://www.linkedin.com/in/nehal-naeem/
+📫 nehal.naeem2@gmail.com | https://www.linkedin.com/in/nehal-naeem/
