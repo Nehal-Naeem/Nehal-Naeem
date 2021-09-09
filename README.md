@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏫 Currently a rising senior @ Unoversity of British Columbia, Vancouver.
+🏫 Currently a rising senior @ University of British Columbia, Vancouver.
 
 👨‍💻 Pursuing a combined major in Business Technology Management and Computer Science.
 
