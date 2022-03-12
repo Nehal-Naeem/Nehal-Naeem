@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 👨‍💻 Pursuing a combined major in Business Technology Management and Computer Science.
 
-📫 nehal.naeem2@gmail.com | https://www.linkedin.com/in/nehal-naeem/
+📫 nehal.naeem2@gmail.com | https://www.linkedin.com/in/nehal-naeem/ 
+
+🌐 nehalnaeem.me
