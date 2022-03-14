@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 📫 nehal.naeem2@gmail.com | https://www.linkedin.com/in/nehal-naeem/ 
 
-🌐 nehalnaeem.me
+🌐 https://nehalnaeem.me/
