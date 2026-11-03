@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👨‍💻 UBC BUCS alumni.
 
-💡 Passionate about how to make data and tech work for bsuinesses.
+💡 Passionate about enabling business to do more with their data.
 
 📫 nehal.naeem2@gmail.com | https://www.linkedin.com/in/nehal-naeem/ 
 
