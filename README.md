@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏫 Currently a senior @ University of British Columbia, Vancouver.
+🏫 Currently looking for opportunities in Data, Analytics and AI Ops.
 
-👨‍💻 Pursuing a combined major in Business Technology Management and Computer Science.
+👨‍💻 UBC BUCS alumni.
 
-💡Passionate about telehealth applications and finTech
+💡 Passionate about telehealth applications and finTech
 
 📫 nehal.naeem2@gmail.com | https://www.linkedin.com/in/nehal-naeem/ 
 
-🌐 https://nehalnaeem.me/
