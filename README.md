@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👨‍💻 UBC BUCS alumni.
 
-💡 Passionate about telehealth applications and finTech
+💡 Passionate about how to make data and tech work for bsuinesses.
 
 📫 nehal.naeem2@gmail.com | https://www.linkedin.com/in/nehal-naeem/ 
 
